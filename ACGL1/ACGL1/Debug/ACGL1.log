@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ACGL1.cpp
+d:\__final_8_sem\акг\labs\l1\acgl1\acgl1\acgl1.cpp(9): warning C4326: возвращаемый тип "wmain" должен быть "int", а не "void"
+opencv_world340d.lib(opencv_world340d.dll) : fatal error LNK1112: тип компьютера модуля "x64" противоречит типу целевого компьютера "x86"
